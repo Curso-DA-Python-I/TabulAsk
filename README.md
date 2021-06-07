@@ -14,8 +14,9 @@ Problema a resolver:
 
 # Contribuidores
 
-|Nombre |correo |linkdin|
+|Nombre |Correo |Linkedin|
 |---|---|---|
 |Borja Javier Lanza |bjlanza@gmail.con|[linkedn](https://www.linkedin.com/in/bjlanza/)|
 |Jose Miguel Benítez|josemibeni@gmail.com|[linkedin](https://www.linkedin.com/in/jose-miguel-ben%C3%ADtez/)|
 |Jorge Galván|nomasdirecciones@hotmail.com|[...](none)|
+|Raquel Contreras Rosa|rachelcrosa@gmail.com|[...]|
