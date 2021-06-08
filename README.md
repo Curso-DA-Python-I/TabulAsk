@@ -6,11 +6,6 @@ Contiene el mínimo para un proyecto, incluyendo una GitHub action que
 comprueba la presencia de ciertos ficheros, un directorio para los
 tests, y otro para la documentación.
 
-# Descripción:
-
-Tabulask
-
-Problema a resolver:
 
 # Contribuidores
 
@@ -20,3 +15,10 @@ Problema a resolver:
 |Jose Miguel Benítez|josemibeni@gmail.com|[linkedin](https://www.linkedin.com/in/jose-miguel-ben%C3%ADtez/)|
 |Jorge Galván|nomasdirecciones@hotmail.com|[...](none)|
 |Raquel Contreras Rosa|rachelcrosa@gmail.com|[...]|
+
+
+# TabulAsk
+Es una herramienta con interfaz web que te permite hacer preguntas a un conjunto de datos tabulados, con el objetivo de extraer 
+información de estos. Está enfocada a personas con poco o nulo conocimiento SQL, las cuales no tienen los 
+conocimientos para extraer la información de sus fuentes de datos.
+
