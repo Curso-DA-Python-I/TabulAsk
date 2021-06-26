@@ -22,3 +22,7 @@ Es una herramienta con interfaz web que te permite hacer preguntas a un conjunto
 información de estos. Está enfocada a personas con poco o nulo conocimiento SQL, las cuales no tienen los 
 conocimientos para extraer la información de sus fuentes de datos.
 
+
+# Solución
+Se plantea montar una API REST hecha en Flask que contendrá la lógica de negocio. Para consultar esta lógica, se proporcionara una interfaz web con la que el usuario interactuará para realizar las preguntas y enviar los documentos.
+
