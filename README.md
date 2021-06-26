@@ -26,3 +26,5 @@ conocimientos para extraer la información de sus fuentes de datos.
 # Solución
 Se plantea montar una API REST hecha en Flask que contendrá la lógica de negocio. Para consultar esta lógica, se proporcionara una interfaz web con la que el usuario interactuará para realizar las preguntas y enviar los documentos.
 
+Como no tengo ni pajolera idea sobre servicios ni tiempo para aprenderlos, lo único que usaré será el servicio de loggin.
+
